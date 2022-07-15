@@ -19,3 +19,9 @@ npm run build
 ```
 npm run lint
 ```
+
+In this project i used:
+ - vue3.js(composition API)
+ - vue cli
+ - vue router
+ 
